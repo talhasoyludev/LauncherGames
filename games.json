@@ -4,7 +4,7 @@
       "id": "braincraft",
       "name": "General Braincraft",
       "version": "1.0",
-      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraft/braincraft.zip",
+      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft.zip",
       "exeName": "Braincraft.exe",
       "isLocked": false
     },
@@ -12,7 +12,7 @@
       "id": "braincraft_csm",
       "name": "General Braincraft CSM",
       "version": "1.5",
-      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraft_csm/braincraft_csm.zip",
+      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm.zip",
       "exeName": "BraincraftCSMTests.exe",
       "isLocked": false
     },
@@ -20,7 +20,7 @@
       "id": "braincraft_smartboard",
       "name": "Braincraft Smartboard",
       "version": "1.5",
-      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraft_smartboard/braincraft_smartboard.zip",
+      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_smartboard.zip",
       "exeName": "Braincraft.exe",
       "isLocked": true,
       "password": "1234"
@@ -29,7 +29,7 @@
       "id": "braincraft_csm_clicic",
       "name": "Braincraft CSM Clinic",
       "version": "1.5",
-      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraft_csm_clicic/braincraft_csm_clicic.zip",
+      "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm_clicic.zip",
       "exeName": "BraincraftCSMTests.exe",
       "isLocked": true,
       "password": "1234"
