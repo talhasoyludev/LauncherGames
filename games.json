@@ -7,7 +7,7 @@
       "version": "1.1",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft.zip",
       "exeName": "Braincraft.exe",
-      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_1.webp",
+      "imageUrl": "https://img.youtube.com/vi/VJCwIqqRBoQ/sddefault.jpg",
       "isLocked": false
     },
     {
@@ -17,7 +17,7 @@
       "version": "1.5",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm.zip",
       "exeName": "BraincraftCSMTests.exe",
-      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_2.webp",
+      "imageUrl": "https://i.ytimg.com/vi/h9CZsfh_a0U/maxresdefault.jpg",
       "isLocked": false
     },
     {
@@ -37,7 +37,7 @@
       "version": "1.5",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm_clicic.zip",
       "exeName": "BraincraftCSMTests.exe",
-      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_3.webp",
+      "imageUrl": "https://braincraft.games/Content/images/ekranlar.png",
       "isLocked": true
     }
   ]
