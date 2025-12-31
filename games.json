@@ -3,36 +3,42 @@
     {
       "id": "braincraft",
       "name": "General Braincraft",
-      "version": "1.0",
+      "description": "Braincraft'ın standart sürümü. Yaratıcılığınızı konuşturun ve dünyayı keşfedin.",
+      "version": "1.1",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft.zip",
       "exeName": "Braincraft.exe",
+      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_1.webp",
       "isLocked": false
     },
     {
       "id": "braincraft_csm",
       "name": "General Braincraft CSM",
+      "description": "Braincraft'ın CSM Test sürümü!",
       "version": "1.5",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm.zip",
       "exeName": "BraincraftCSMTests.exe",
+      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_2.webp",
       "isLocked": false
     },
     {
       "id": "braincraft_smartboard",
       "name": "Braincraft Smartboard",
+      "description": "Akıllı tahtalar için özel olarak optimize edilmiş, sınıf ortamı destekli sürüm.",
       "version": "1.5",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_smartboard.zip",
       "exeName": "Braincraft.exe",
-      "isLocked": true,
-      "password": "1234"
+      "imageUrl": "https://www.braincraft.games/Content/images/Yetenek/BraincraftAppsEnglish_2.jpg",
+      "isLocked": true
     },
     {
       "id": "braincraft_csm_clicic",
       "name": "Braincraft CSM Clinic",
+      "description": "Özel isteklerle dizayn edilmiş Braincraft CSM Tests versiyonudur.",
       "version": "1.5",
       "zipUrl": "https://github.com/talhasoyludev/LauncherGames/releases/download/braincraftgames/braincraft_csm_clicic.zip",
       "exeName": "BraincraftCSMTests.exe",
-      "isLocked": true,
-      "password": "1234"
+      "imageUrl": "https://braincraft.games/Content/images/homepage_slide_3.webp",
+      "isLocked": true
     }
   ]
 }
